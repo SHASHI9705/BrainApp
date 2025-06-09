@@ -7,3 +7,5 @@ node_modules/
 # Optional: Ignore logs and environment files
 *.log
 .env
+# Ignore config.ts in the src folder
+src/config.ts
